@@ -1,6 +1,6 @@
 # Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks
 
-This repository contains the official implementation of the TMLR paper **Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks**[Paper](https://openreview.net/forum?id=WN1O2MJDST) by Vijaya Raghavan T Ramkumar, Elahe Arani and Bahram Zonooz in [PyTorch](https://pytorch.org/). 
+This repository contains the official implementation of the TMLR paper **Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks** [Paper](https://openreview.net/forum?id=WN1O2MJDST) by **Vijaya Raghavan T Ramkumar, Elahe Arani and Bahram Zonooz** in [PyTorch](https://pytorch.org/). 
 
 ## Abstract
 Deep neural networks (DNNs) are often trained on the premise that the complete training
