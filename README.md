@@ -47,7 +47,7 @@ $ python ./LURE_main.py --data <data_dir> --imagenet_path <imagenet data path> -
 --save_dir <save-dir> --sparsity_level 1 -wb --gamma 0.1 --use_snip
 
 ```
-**Note Use `-buffer_replay`, `-no_replay` for training the model with buffer and without buffer data respectively. If no args is given then by default the model is trained in full replay mode.**
+**Note Use `-buffer_replay`, `-no_replay` for training the model with buffer and without buffer data respectively. If no args is given then by default the model is trained in full replay setting.**
 
 
 
