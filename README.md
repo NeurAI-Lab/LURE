@@ -57,7 +57,15 @@ $ python ./LURE_main.py --data <data_dir> --imagenet_path <imagenet data path> -
 If you use this code in your research, please cite the original works [[Paper](https://openreview.net/forum?id=WN1O2MJDST)] :
 
 ```
-
+@article{
+anonymous2022learn,
+title={Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks},
+author={Anonymous},
+journal={Submitted to Transactions on Machine Learning Research},
+year={2022},
+url={https://openreview.net/forum?id=WN1O2MJDST},
+note={Under review}
+}
 
 ```
 
