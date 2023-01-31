@@ -1,6 +1,6 @@
 # Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks
 
-This repository contains the official implementation of the TMLR paper **Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks** ([Paper](https://openreview.net/forum?id=WN1O2MJDST)) by **Vijaya Raghavan T Ramkumar, Elahe Arani and Bahram Zonooz** in [PyTorch](https://pytorch.org/). 
+This repository contains the official implementation of the TMLR paper **Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks** [[Paper](https://openreview.net/forum?id=WN1O2MJDST)] by **Vijaya Raghavan T Ramkumar, Elahe Arani and Bahram Zonooz** in [PyTorch](https://pytorch.org/). 
 
 ## Abstract
 Deep neural networks (DNNs) are often trained on the premise that the complete training
@@ -18,9 +18,9 @@ learning on generalizable features. We show that our training paradigm provides 
 performance gains across datasets in both classification and few-shot settings. We further
 show that it leads to more robust and well-calibrated models.
 
-![alt text](https://github.com/NeurAI-Lab/LURE/blob/method_LURE.png)
+![alt text](https://github.com/NeurAI-Lab/LURE/method_LURE.png)
 
-For more details, please see the [Paper](https: // openreview. net/ forum? id= WN1O2MJDST) and [Presentation](https://www.youtube.com/@neurai4080).
+For more details, please see the [Paper](https://openreview.net/forum?id= WN1O2MJDST) and [Presentation](https://www.youtube.com/@neurai4080).
 
 ## Requirements
 
@@ -54,7 +54,7 @@ $ python ./LURE_main.py --data <data_dir> --imagenet_path <imagenet data path> -
 
 ## Reference & Citing this work
 
-If you use this code in your research, please cite the original works [[Paper](https: // openreview. net/ forum? id= WN1O2MJDST)] :
+If you use this code in your research, please cite the original works [[Paper](https://openreview.net/forum?id=WN1O2MJDST)] :
 
 ```
 
