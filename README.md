@@ -18,7 +18,7 @@ learning on generalizable features. We show that our training paradigm provides 
 performance gains across datasets in both classification and few-shot settings. We further
 show that it leads to more robust and well-calibrated models.
 
-![alt text](https://github.com/NeurAI-Lab/LURE/method_LURE.png)
+![alt text](https://github.com/NeurAI-Lab/LURE/blob/main/method_LURE.png) 
 
 For more details, please see the [Paper](https://openreview.net/forum?id= WN1O2MJDST) and [Presentation](https://www.youtube.com/@neurai4080).
 
