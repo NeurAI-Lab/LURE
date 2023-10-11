@@ -58,13 +58,13 @@ If you use this code in your research, please cite the original works [[Paper](h
 
 ```
 @article{
-anonymous2022learn,
+ramkumar2023learn,
 title={Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks},
-author={Anonymous},
-journal={Submitted to Transactions on Machine Learning Research},
-year={2022},
-url={https://openreview.net/forum?id=WN1O2MJDST},
-note={Under review}
+author={Vijaya Raghavan T Ramkumar and Elahe Arani and Bahram Zonooz},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=WN1O2MJDST}
 }
 
 ```
